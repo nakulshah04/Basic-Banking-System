@@ -3,13 +3,8 @@ This is my 1st task as a web development at the Sparks Foundation. I had to crea
 
 Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers 
 
-Front End:
-HTML
-CSS 
-Bootstrap
+Front End: HTML, CSS, Bootstrap
 
-Back end:
-PHP
+Back end: PHP
 
-Database: 
-MySQL (phpMyAdmin)
+Database: MySQL (phpMyAdmin)
