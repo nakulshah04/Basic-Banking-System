@@ -1,11 +1,43 @@
-# Basic Banking System
+# 💸 SparkBank - Basic Banking System
 
-This is my 1st task as a web development intern at The Sparks Foundation. I contributed to creating a basic banking system. It had a dummy database for testing, and amount transfers had to be made within pre-created accounts.
+This project was created as part of The Sparks Foundation Web Development Internship.
 
-Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers 
+## 📌 Features
 
-Front End: HTML, CSS, Bootstrap
+- View all customers
+- View customer details
+- Transfer money between existing customers
+- View transaction history
 
-Back end: PHP
+## 🔧 Tech Stack
 
-Database: MySQL (phpMyAdmin)
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** PHP
+- **Database:** MySQL (phpMyAdmin)
+
+## 🔄 Application Flow
+
+1. Home Page
+2. View All Customers
+3. Select a Customer
+4. Initiate Money Transfer
+5. Choose Recipient & Confirm Transfer
+6. View Transaction History
+
+## 🗂 Directory Structure
+
+- `index.php`: Home page
+- `user_details.php`: View customer info
+- `money_transfer.php`: Handle transfers
+- `transaction_history.php`: Show history
+- `config.php`: DB config
+- `navbar.php`: Navigation bar
+- `css/`: Styling
+- `images/`: Assets
+
+## 📝 Future Improvements
+
+- Add user authentication
+- Form validation and alerts
+- Improved UI responsiveness
+- RESTful API endpoints
